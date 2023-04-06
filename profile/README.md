@@ -1,5 +1,7 @@
 # K Software House
 
+![Logo](../images/logo.png)
+
 Welcome to K Software House! We are a team of experienced software developers dedicated to providing high-quality software solutions for businesses of all sizes. Our services include custom software development, web and mobile app development, and software consulting.
 
 ## Our Services
