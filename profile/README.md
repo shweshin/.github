@@ -1,6 +1,6 @@
 # Shway Shin
 
-![Shway Shin Logo](../images/shwayshin.webp)
+![Shway Shin Logo](https://raw.githubusercontent.com/shwayshin/.github/main/images/shwayshin.webp)
 
 Welcome to Shway Shin, the software house for software enthusiasts! We are a group of passionate software developers who love to create and launch our own digital products and services. We also help other software enthusiasts to turn their ideas into reality by providing high-quality software solutions for any size of business. Our services include:
 
