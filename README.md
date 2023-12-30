@@ -1,3 +1,3 @@
-![Logo](./images/logo.png)
+![Shway Shin Logo](./images/shwayshin.webp)
 
-[Learn more](./profile/README.md) about **K Software House**
+[Learn more](./profile/README.md) about **Shway Shin**
