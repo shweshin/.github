@@ -1,8 +1,8 @@
-![Shway Shin Logo](https://raw.githubusercontent.com/shwayshin/.github/main/images/shwayshin.webp)
+![Shwe Shin Logo](https://raw.githubusercontent.com/shweshin/.github/main/images/shweshin.png)
 
-# Welcome to Shway Shin - The Software House for Software Enthusiasts!
+# Welcome to Shwe Shin - The Software House for Software Enthusiasts!
 
-Shway Shin is a passionate group of software developers dedicated to creating and launching innovative digital products and services. We not only pursue our own ideas but also help fellow software enthusiasts turn their visions into reality. Our high-quality software solutions cater to businesses of all sizes. Our key services include:
+Shwe Shin is a passionate group of software developers dedicated to creating and launching innovative digital products and services. We not only pursue our own ideas but also help fellow software enthusiasts turn their visions into reality. Our high-quality software solutions cater to businesses of all sizes. Our key services include:
 
 ## Services
 
@@ -36,10 +36,9 @@ We leverage hypermedia systems to create and deliver our software solutions. Thi
 
 If you need a software solution or are interested in joining our team, please don't hesitate to reach out. We would love to hear from you!
 
-- **Email:** shwayshin@gmail.com
 - **Phone:** +959766107203
-- **Website:** [shwayshin.pages.dev](https://shwayshin.pages.dev)
+- **Website:** [www.shweshin.com](https://www.shweshin.com)
 
 ---
 
-*Thank you for considering Shway Shin as your software development partner. We look forward to collaborating with you!* 
+*Thank you for considering shwe Shin as your software development partner. We look forward to collaborating with you!* 
