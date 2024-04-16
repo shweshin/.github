@@ -1,4 +1,4 @@
-![Shwe Shin Logo](https://raw.githubusercontent.com/shweshin/.github/main/images/shweshin.png)
+![Shwe Shin Logo](https://raw.githubusercontent.com/shweshin/.github/main/shweshin.png)
 
 # Welcome to Shwe Shin - The Software House for Software Enthusiasts!
 
