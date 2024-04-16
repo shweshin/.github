@@ -1,3 +1,3 @@
-![Shway Shin Logo](https://raw.githubusercontent.com/shwayshin/.github/main/images/shwayshin.webp)
+![Shwe Shin Logo](https://raw.githubusercontent.com/shwayshin/.github/main/images/shweshin.png)
 
-[Learn more](./profile/README.md) about **Shway Shin**
+[Learn more](./profile/README.md) about **Shwe Shin**
