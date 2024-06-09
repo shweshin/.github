@@ -36,7 +36,7 @@ We leverage hypermedia systems to create and deliver our software solutions. Thi
 
 If you need a software solution or are interested in joining our team, please don't hesitate to reach out. We would love to hear from you!
 
-- **Phone:** +959766107203
+- **Phone:** (+95) 9 7800 11 313
 - **Website:** [www.shweshin.com](https://www.shweshin.com)
 
 ---
